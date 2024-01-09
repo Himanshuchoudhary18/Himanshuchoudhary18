@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Choudhary</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img allign="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+<img allign="center" alt="Coding" width="100%" height="40%" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuchoudhary18&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuchoudhary18" /> </p>
 
