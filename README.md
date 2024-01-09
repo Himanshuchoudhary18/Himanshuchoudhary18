@@ -1,21 +1,27 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Himanshu Choudhary</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+
+<img allign="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuchoudhary18&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuchoudhary18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuchoudhary18" alt="himanshuchoudhary18" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/blood_himanshu" target="blank"><img src="https://img.shields.io/twitter/follow/blood_himanshu?logo=twitter&style=for-the-badge" alt="blood_himanshu" /></a> </p>
+
 - 🔭 I’m currently working on [Disaster Recovery Drill Automation](https://github.com/Himanshuchoudhary18/Disaster-Recovery-Drill)
 
 - 🌱 I’m currently learning **SPRING, Selenium**
+
+- 💬 Ask me about **SELENIUM**
 
 - 📫 How to reach me **himanshuchoudhsary1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/blood_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blood_himanshu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu choudhary" height="30" width="40" /></a>
+<a href="https://instagram.com/himanshu.choudhary18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu.choudhary18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuchoudhary18&show_icons=true&locale=en&layout=compact" alt="himanshuchoudhary18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuchoudhary18&show_icons=true&locale=en" alt="himanshuchoudhary18" /></p>
-
-From <https://rahuldkjain.github.io/gh-profile-readme-generator/> ![image](https://github.com/Himanshuchoudhary18/Himanshuchoudhary18/assets/38095683/3dd7d5e1-361e-4601-953e-913af0c1470e)
