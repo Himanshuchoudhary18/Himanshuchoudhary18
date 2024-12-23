@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Disaster Recovery Drill Automation](https://github.com/Himanshuchoudhary18/Disaster-Recovery-Drill)
 
-- 🌱 I’m currently learning **SPRING, Selenium**
+- 🌱 I’m currently learning **SPRING (JAVA)**
   
-- 💬 Ask me about **SELENIUM**
+- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **himanshuchoudhsary1@gmail.com**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/blood_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blood_himanshu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/himanshu-choudhary-42ab32230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu choudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshu.choudhary18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu.choudhary18" height="30" width="40" /></a>
+<a href="https://instagram.com/himanshu.2k02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu.choudhary18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
