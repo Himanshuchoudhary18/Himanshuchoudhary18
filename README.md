@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/blood_himanshu" target="blank"><img src="https://img.shields.io/twitter/follow/blood_himanshu?logo=twitter&style=for-the-badge" alt="blood_himanshu" /></a> </p>
 
-- 🔭 I’m currently working on [Disaster Recovery Drill Automation](https://github.com/Himanshuchoudhary18/Disaster-Recovery-Drill)
+- 🔭 I’m currently working on https://github.com/Himanshuchoudhary18/Question-Answering-Assistant-ChatBot
 
-- 🌱 I’m currently learning **SPRING (JAVA)**
+- 🌱 I’m currently learning **JAVA WITH TESTING**
   
-- 💬 Ask me about **Software Testing**
+- 💬 Ask me about **Software Testing and Development**
 
 - 📫 How to reach me **himanshuchoudhsary1@gmail.com**
 
